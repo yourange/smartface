@@ -1,9 +1,10 @@
+
 package com.yourange.smartface;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity
+public class FifthActivity extends Activity
 {
     /** Called when the activity is first created. */
     @Override
@@ -11,6 +12,6 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-	System.out.println("working on branch");
     }
 }
+97.247.122.170    albert.apple.com
